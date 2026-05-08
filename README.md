@@ -203,13 +203,7 @@ npx skills add alchaincyf/nuwa-skill
 
 ## 达尔文.skill：让所有Skill持续进化
 
-<div align="center">
 
-<a href="https://github.com/alchaincyf/darwin-skill">
-<img src="https://raw.githubusercontent.com/alchaincyf/darwin-skill/master/assets/banner.svg" alt="达尔文.skill" width="600">
-</a>
-
-</div>
 
 女娲造Skill，**[达尔文](https://github.com/alchaincyf/darwin-skill)** 让Skill进化。
 
