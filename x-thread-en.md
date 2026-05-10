@@ -30,7 +30,7 @@ Output: a runnable cognitive skill.
 Not role-play. Mental model extraction.
 
 ---
-
+ 
 Naval's leverage framework. Munger's inversion. Feynman's "if you can't teach it, you don't know it."
 
 All queryable. All on your side.
