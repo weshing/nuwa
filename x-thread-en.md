@@ -38,4 +38,3 @@ All queryable. All on your side.
 Open source. One command to install.
 
 github.com/alchaincyf/nuwa-skill
-
