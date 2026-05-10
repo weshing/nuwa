@@ -4,7 +4,7 @@ Almost nobody used it.
 
 ---
 
-Munger left the Almanack + 40 years of shareholder letters   .
+Munger left the Almanack + 40 years of shareholder letters    .
 Feynman left complete lecture series + three autobiographies.
 Naval left 300 tweets + a 20-hour podcast on wealth.
 Taleb left five books + ten thousand public arguments.
